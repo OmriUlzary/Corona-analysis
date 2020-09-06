@@ -1,7 +1,5 @@
 # Data-analysis
-Abstract  During the course, we have learned different subjects when each topic was based on the previous one. We have learned – Data structures and algorithms, Data analysis and visualization using ‘Numpy’ and ‘Pandas’, and at last Machine Learning.  
- 
-In this final project, we got three datasets that contains information about covid19 - the recovered, confirmed and deaths. 
+Abstract
  
 In the first section, we explore the databases. First, we import the data from a CSV file to Python and explore the data in statistical aspects using Pandas library which helps us find interesting information about the datasets. Then we proceeded to more advanced analysis and used more advanced functions to learn more meaningful information about our data, do advanced analytics, and present it with visualization so we could see the results more clearly and see the data behavior. In order to use the machine learning and deep learning algorithm, we performed pre-processing to convert the raw data to a sustainable format for analysis. Then, we perform a re-analysis of the data in order to draw new conclusions about the relevant information. 
  
