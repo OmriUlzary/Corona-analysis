@@ -1,4 +1,4 @@
-# Data-analysis
+# Corona analysis
 Abstract
 
 In this final project, we got three datasets that contains information about covid19 - the recovered, confirmed and deaths. 
